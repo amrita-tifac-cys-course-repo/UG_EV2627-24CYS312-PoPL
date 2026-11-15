@@ -9,8 +9,8 @@
 #### Pre-requisite: 24CYS113 - Computer Programming, and 24CYS204 - Advanced Programming
 
 #### Course Instructor:  
-##### Section - X: Dr. Rohini M, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
-##### Section - X: Mr. Ramaguru Radhakrishnan, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+##### Section - A: Mr. Ramaguru Radhakrishnan, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
+##### Section - B: Dr. Rohini M, Assistant Professor (Senior Grade), TIFAC-CORE in Cyber Security.
 
 ### :books: Course Outcome
 
