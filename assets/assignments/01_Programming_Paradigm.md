@@ -2,8 +2,8 @@
 
 ## Assignment - 01: Exploring Programming Paradigms   ![](https://img.shields.io/badge/-Planned-darkgreen) 
 
-- **Date of Start:** ![](https://img.shields.io/badge/-TBD-green)
-- **Date of Submission:** ![](https://img.shields.io/badge/-TBD-darkred) 
+- **Date of Start:** ![](https://img.shields.io/badge/-16-Nov-2026-green)
+- **Date of Submission:** ![](https://img.shields.io/badge/-30-Nov-2026:11:00_PM-darkred) 
   
 ### Objective:
 The objective of this assignment is to deepen your understanding of programming paradigms, reinforce your knowledge of previously studied programming languages (C, C++, Java, Python, and JavaScript), and prepare you for the upcoming Principles of Programming Language course.
@@ -34,11 +34,11 @@ The objective of this assignment is to deepen your understanding of programming 
 
 #### Submission:
 
-- **Presentations and Report (in Latex Format)** should be submitted electronically via [AUMS](https://aumscb.amrita.edu/portal/site/67606/tool/5b707dc3-1d16-4617-a460-cb455024799a?null). [[Latex Templates](../Templates/) available here]
+- **Presentations and Report (in Latex Format)** should be submitted electronically via AUMS [[Latex Templates](../Templates/) available here]
 - **File Naming Convention:**
   - Assignment01-CYS210XX_Report.pdf
   - Assignment01-CYS210XX_Presentation.pdf
-- Presentations can be conducted in-person  ![](https://img.shields.io/badge/-12th_Feb_to_17th_Feb-darkgreen)
+- Presentations can be conducted in-person 
 
 #### Grading Criteria:
 
